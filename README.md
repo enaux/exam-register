@@ -4,7 +4,6 @@
 
 This program allows the user to create a register of students for an exam venue.
 
-<br>
 It asks the user for:
 <ul>
   <li>venue name</li>
