@@ -12,7 +12,8 @@ It asks the user for:
 </ul>
 
 <br>
-A .txt file is created to register the students sitting their exam at the specified venue.   
+A .txt file is created to register the students sitting their exam at the specified venue.
+
 This file can then be used as an attendance sheet for the exam.
 
 <h2>Installation:</h2>
